@@ -1,0 +1,97 @@
+body {
+  font-family: sans-serif;
+  direction: rtl;
+  margin-left: 3vw;
+  margin-right: 3vw;
+}
+
+.air {
+  margin-top: -1.5vh;
+}
+.pic1 {
+  margin-right: 20.5vw;
+}
+.logo {
+  margin-top: 3vh;
+  width: 31vh;
+  margin-right: 39vw;
+}
+#b1 {
+  background-color: blue;
+  color: white;
+  padding: 0.7vh;
+  border: none;
+  font-weight: bold;
+  padding-left: 1.5vw;
+  padding-right: 1.5vw;
+}
+#b2 {
+  border: none;
+  background-color: white;
+}
+.item12 {
+  position: absolute;
+  height: 4vh;
+  margin-right: 72vw;
+  top: 32vh;
+}
+.search {
+  position: absolute;
+  margin-left: 3.5vw;
+}
+
+.allb {
+  margin-bottom: 3vh;
+  direction: ltr;
+  display: flex;
+}
+
+.nav {
+  padding: 0.4vh;
+  padding-left: 1.5vw;
+  padding-right: 1.5vw;
+  display: flex;
+  justify-content: space-between;
+  background-color: #de1a1a;
+  color: white;
+  direction: ltr;
+}
+.nav a {
+  text-decoration: none;
+  color: white;
+}
+.news {
+  margin-top: 3vh;
+  display: flex;
+  background-color: #f3f8f9;
+  font-size: smaller;
+  font-weight: bold;
+}
+.continer {
+  direction: rtl;
+  text-align: right;
+}
+.car {
+  float: left;
+  height: 56vh;
+}
+.top{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.p1{ font-size: smaller;
+    font-weight: bold;
+}
+#spa{
+      color:  #7e8283;
+      font-size: small;
+      font-weight: normal;
+}
+.newsdivs{ 
+    background-color: #de1a1a;
+    direction: rtl;
+    display: flex;
+    float: left;
+    
+
+}
